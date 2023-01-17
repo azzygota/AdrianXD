@@ -1,19 +1,15 @@
-// ATUR SENDIRI 
-// SCRIPT HARUKA-MD
-// RECODE AdrianXD 
-// JANGAN LUPA FOLLOW 
 {
-    "ownerNumber": ["6289513081052@s.whatsapp.net"], // NOMER OWNER
-    "ownerName": "𝐀𝐃𝐑𝐈𝐀𝐍", // NAMA OWNER SAMA WATERMARK STICKER
-    "instagram" : "https://instagram.com/adrianpreset03", // INSTAGRAM OWNER
-    "botName": "𝑨𝑫𝑹𝑰𝑨𝑵 𝑿 𝑵𝑨𝑰𝑺𝑨 • 6285860928363", // NAMA BOT SAMA WATERMARK STICKER
-    "footer": "AdriannnXD", // GAK USAH DIGANTI NANTI ERROR
-    "sessionName": "session", // GAK USAH DIGANTI NANTI ERROR
-    "fotoDonasi": "./Donasi.jpg", // FOTO QRIS ATAU DONASI
-    "pathimg": "./AdrianXD.jpg", // FOTO UTAMA
-    "BotKey": "AdrianXD", // APIKEY LU SENDIRI
-    "audio_di_bagian_menu": "./menu.mp3", // AUDIO BAGIAN MENU
-    "auto_welcomeMsg": false, // YANG DIBAWAH BISA DIATUR SENDIRI ATAU DIBOT
+    "ownerNumber": ["6289513081052@s.whatsapp.net"], 
+    "ownerName": "𝐀𝐃𝐑𝐈𝐀𝐍", 
+    "instagram" : "https://instagram.com/adrianpreset03", 
+    "botName": "𝑨𝑫𝑹𝑰𝑨𝑵 𝑿 𝑵𝑨𝑰𝑺𝑨 • 6285860928363", 
+    "footer": "AdriannnXD", 
+    "sessionName": "session", 
+    "fotoDonasi": "./Donasi.jpg", 
+    "pathimg": "./AdrianXD.jpg", 
+    "BotKey": "AdrianXD", // 
+    "audio_di_bagian_menu": "./menu.mp3", 
+    "auto_welcomeMsg": false, 
     "auto_leaveMsg": false, 
     "antiViewOnce": true,
     "antiDelete": true,
