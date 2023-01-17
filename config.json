@@ -7,7 +7,7 @@
     "sessionName": "session", 
     "fotoDonasi": "./Donasi.jpg", 
     "pathimg": "./AdrianXD.jpg", 
-    "BotKey": "AdrianXD", // 
+    "BotKey": "AdrianXD", 
     "audio_di_bagian_menu": "./menu.mp3", 
     "auto_welcomeMsg": false, 
     "auto_leaveMsg": false, 
